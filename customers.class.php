@@ -257,7 +257,7 @@ class Customer {
             </head>
             <body>
                 <a href='https://github.com/rklawinski/355Prog02' target='_blank'>Jrklawin Github</a><br />
-                <a href='https://i.imgur.com/A5ws9DT.png' target='_blank'>"Diagram"</a>
+                <a href='https://i.imgur.com/A5ws9DT.png' target='_blank'>Diagram</a>
                 <br />
                 <div class='container'>
                     <p class='row'>
