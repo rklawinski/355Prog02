@@ -1,7 +1,7 @@
 <?php
-
+// Thanks to bmricha4 for the help <3
 // include the class that handles database connections
-require "../Prog01/database.php";
+require "../PhpProject/database.php";
 
 // include the class containing functions/methods for "customer" table
 // Note: this application uses "customer" table, not "cusotmers" table
